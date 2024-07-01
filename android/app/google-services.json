@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935928419547",
+    "project_id": "practice-fda75",
+    "storage_bucket": "practice-fda75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935928419547:android:6696969523a846699528fe",
+        "android_client_info": {
+          "package_name": "com.example.myappb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWiVpC_tup94bIFbzeMjxGIRBizTZWeFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
